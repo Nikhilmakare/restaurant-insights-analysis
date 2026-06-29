@@ -118,6 +118,6 @@ This project demonstrates how data analysis can be used to understand restaurant
 
 ## Author
 
-**Nikhil Baliram Makare**
+**Nikhil Baliram Makare**  
 Aspiring Data Analyst focused on Data Cleaning, EDA, Visualization, and Business Insights
 
